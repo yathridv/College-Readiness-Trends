@@ -30,7 +30,7 @@ The entire project is in Python using Jupyter Notebooks. The following is a guid
 1. Fork the repository [repo link](https://github.com/yathridv/College-Readiness-Trends.git)  
 2. Clone the repository from your Github account
 3. Install the **requirements.txt** file to install necessary packages
-4. There are two primary files included in the datasets directory
+4. There are FOUR primary files included in the datasets directory
 
     Data_act_school.ipynb   ---  Percentage of students who met benchmarks over the years? By County and/or By School
     Data_act_composite.ipynb  ---  ACT Composite Score trending for all demographics by County
